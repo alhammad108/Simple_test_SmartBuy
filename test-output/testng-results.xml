@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-07T12:59:32 EET" name="Default suite" finished-at="2022-12-07T12:59:57 EET" duration-ms="24589">
+    <groups>
+    </groups>
+    <test started-at="2022-12-07T12:59:32 EET" name="Default test" finished-at="2022-12-07T12:59:57 EET" duration-ms="24589">
+      <class name="The_pice">
+        <test-method is-config="true" signature="Log_in()[pri:0, instance:The_pice@a514af7]" started-at="2022-12-07T12:59:32 EET" name="Log_in" finished-at="2022-12-07T12:59:50 EET" duration-ms="17904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Log_in -->
+        <test-method signature="The_price_Of_cart()[pri:0, instance:The_pice@a514af7]" started-at="2022-12-07T12:59:50 EET" name="The_price_Of_cart" finished-at="2022-12-07T12:59:55 EET" duration-ms="4948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- The_price_Of_cart -->
+        <test-method signature="Total_of_Price()[pri:0, instance:The_pice@a514af7]" started-at="2022-12-07T12:59:55 EET" name="Total_of_Price" finished-at="2022-12-07T12:59:57 EET" duration-ms="1690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Total_of_Price -->
+      </class> <!-- The_pice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
